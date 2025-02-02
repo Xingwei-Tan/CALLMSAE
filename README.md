@@ -30,4 +30,4 @@ python get_salient_events.py
 python event_relation_prompting.py
 ```
 
-Finetuning code and training data are coming soon
+For the fine-tunning code please refer to [Set-Aligning-Event-Temporal-Graph-Generation](https://github.com/Xingwei-Tan/Set-Aligning-Event-Temporal-Graph-Generation)
